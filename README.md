@@ -181,3 +181,7 @@ frame1.to_dense().to_csv("assignment.csv", index = False, sep=',', encoding='utf
 ```python
 
 ```
+
+# Part 2 - CSV in GCP - Bigquery
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
