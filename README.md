@@ -184,4 +184,4 @@ frame1.to_dense().to_csv("assignment.csv", index = False, sep=',', encoding='utf
 
 # Part 2 - CSV in GCP - Bigquery
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Screenshot](https://raw.githubusercontent.com/fung1091/topos_assignment/blob/master/assignment1.png)
